@@ -20,7 +20,7 @@ Este projeto é uma aplicação de Amigo Secreto que permite aos usuários sorte
 </p>
 
 <p align="center"> 
-    <img src="alura plus 3.png" width="780px" alt="Imagem 3">
+    <img src="Captura de tela 2025-03-29 185348.png" width="900px" alt="Imagem 3">
 </p>
 
 <p align="center">
