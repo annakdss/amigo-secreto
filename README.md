@@ -12,7 +12,7 @@ Este projeto é uma aplicação de Amigo Secreto que permite aos usuários sorte
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="alura plus 1.png" width="780px" alt="Imagem 1">
+    <img src="amigo-secreto0.png" width="900px" alt="Imagem 1">
 </p>
 
 <p align="center"> 
