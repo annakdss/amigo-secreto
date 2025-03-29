@@ -24,17 +24,14 @@ Este projeto é uma aplicação de Amigo Secreto que permite aos usuários sorte
 </p>
 
 <p align="center">
-    <img src="alura plus 4.png" width="780px" alt="Imagem 4">
-</p> 
-
-<p align="center">
-    <img src="alura plus 5.png" width="780px" alt="Imagem 5">
+    <img src="amigo-secreto2.png" width="900px" alt="Imagem 4">
 </p>   
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
 - HTML
 - CSS
+- JAVA SCRIPT
 - FRAMEWORKS
 
 <h2 id="started">🚀 Começando</h2>
@@ -43,6 +40,7 @@ Este projeto é uma aplicação de Amigo Secreto que permite aos usuários sorte
 
 - [HTML](https://github.com/)
 - [CSS](https://github.com)
+- [JAVA SCRIPT](https://github.com)
 - [FRAMEWORK](https://github.com)
 - [GITHUB](https://github.com)
 - [VISUAL STUDIO CODE](https://github.com)
